@@ -18,6 +18,7 @@
 #3D Object
 *.FBX filter=lfs diff=lfs merge=lfs -text
 #ETC
-Assets/StylizedTown/Textures/Cobblestone_normal.png filter=lfs diff=lfs merge=lfs -text
+*Assets/StylizedTown/Textures/Cobblestone_normal.png filter=lfs diff=lfs merge=lfs -text
+*Assets\StylizedTown\Scenes\SampleSceneNight\LightingData.asset
 *.asset filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
