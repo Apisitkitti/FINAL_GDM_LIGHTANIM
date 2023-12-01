@@ -51,7 +51,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
-
+Assets/StylizedTown/Textures/Cobblestone_normal.png 
+Assets/StylizedTown/Scenes/SampleSceneNight/LightingData.asset
 # Unity3D generated file on crash reports
 sysinfo.txt
 
