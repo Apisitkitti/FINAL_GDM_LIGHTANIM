@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 44dc9660c885a7a4bbc55ba46646105d
+guid: c7e8ba7711ed7bd44995234892a98886
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -19,16 +19,18 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: "\nClip 'Azri_walkcycle' has import animation warnings
+    animationImportWarnings: "\nClip 'azri_attack' has import animation warnings
       that might lower retargeting quality:\nNote: Activate translation DOF on avatar
-      to improve retargeting quality.\n\t'BND_C_Spine4' is inbetween humanoid transforms
-      and has rotation animation that will be discarded.\n\t'BND_C_Neck2' is inbetween
-      humanoid transforms and has rotation animation that will be discarded.\n\t'BND_C_Pelvis1'
-      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+      to improve retargeting quality.\n\t'BND_C_Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'BND_C_Spine4' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'BND_C_Neck2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'BND_C_Pelvis1'
+      has translation animation that will be discarded.\n\t'BND_C_Pelvis1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 1
+    importConstraints: 0
     animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -38,9 +40,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Azri_walkcycle
-      takeName: Azri_walkcycle
-      internalID: -957231460504684586
+      name: azri_attack
+      takeName: azri_attack
+      internalID: -1065315704772174258
       firstFrame: 1
       lastFrame: 60
       wrapMode: 0
@@ -49,7 +51,7 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -2471,12 +2473,12 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: NLL_C_Weapon1
       parentName: CTL_C_World1
-      position: {x: -7.432058e-10, y: -6.176876e-11, z: 2.0883831e-10}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+      position: {x: -0.00001498809, y: 0.000006396677, z: -0.000014859276}
+      rotation: {x: 0.000010521385, y: 0.000009183882, z: -0.0000066584876, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: CTL_C_Weapon1
       parentName: NLL_C_Weapon1
-      position: {x: -0, y: 0, z: 0}
+      position: {x: 0.5481389, y: 1.0448622, z: -0.000011918502}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: NLL_C_WeaponGrip1
@@ -4481,8 +4483,8 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: BND_C_Weapon1
       parentName: BND_C_World1
-      position: {x: -7.432058e-10, y: -6.176876e-11, z: 2.0883831e-10}
-      rotation: {x: 0, y: -0, z: -0, w: 1}
+      position: {x: 0.5481378, y: 1.0448613, z: -0.000014859276}
+      rotation: {x: 0.000010521385, y: 0.000009183882, z: -0.0000066584876, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: geometry
       parentName: AZRI(Clone)
