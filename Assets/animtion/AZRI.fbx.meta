@@ -19,6 +19,71 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: head_material3
     second: {fileID: 2100000, guid: d1e2cf02e540ef54ea1560c78cb63fa3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Body_Albedo
+    second: {fileID: 2800000, guid: 8329a4337b4fbef459159976017a8d55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Body_Normal
+    second: {fileID: 2800000, guid: 38f0ef2364085af449ab7e4a1b9794c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Body_Spec
+    second: {fileID: 2800000, guid: 3fefbe1ebdd27b8418bda24821a12d0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Head_Albedo
+    second: {fileID: 2800000, guid: 944eaa350a71bc7458feb778536cb272, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Head_Emissive
+    second: {fileID: 2800000, guid: 38d54f6fb363e3b44ab8ae5e5bc7cc76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Head_Normal
+    second: {fileID: 2800000, guid: 5324b49a7d57116449be04da159a2a97, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Azri_Head_Spec
+    second: {fileID: 2800000, guid: 43b98118f23121b4e8b1e2edc749eae8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scythe_BaseColor
+    second: {fileID: 2800000, guid: 424ae54e6c45e794c8625779860af6f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scythe_Normal
+    second: {fileID: 2800000, guid: 16420d03fd09f7d4ca98ef3f0ecac8bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Scythe_Roughness
+    second: {fileID: 2800000, guid: 9b9b6ac2e3519194e98fa951c3e0bfc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sword_BaseColor
+    second: {fileID: 2800000, guid: 0b574c2c371cdde428d8f7f1799e8085, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sword_Normal
+    second: {fileID: 2800000, guid: f3477dcb7451b3b45a233199186fcbb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sword_Roughness
+    second: {fileID: 2800000, guid: c987394137034984b86544480fa97b59, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

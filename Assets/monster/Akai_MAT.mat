@@ -26,9 +26,7 @@ Material:
   m_Name: Akai_MAT
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
   m_ValidKeywords:
-  - _DETAIL_MAP
   - _DISABLE_SSR_TRANSPARENT
-  - _NORMALMAP
   - _NORMALMAP_TANGENT_SPACE
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -50,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
-        m_Texture: {fileID: 2800000, guid: 633fc6949411eac42bb766ec51edf574, type: 3}
+        m_Texture: {fileID: 2800000, guid: 23c3486722e2f5a43b9563b74a2aae49, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -86,7 +84,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 633fc6949411eac42bb766ec51edf574, type: 3}
+        m_Texture: {fileID: 2800000, guid: 23c3486722e2f5a43b9563b74a2aae49, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
