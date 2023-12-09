@@ -2372,31 +2372,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.4789352
+      value: 5.7386856
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.3058618
+      value: 0.96054304
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 33.837856
+      value: 33.36912
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.2663093
+      value: -0.116397314
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.2445526
+      value: 0.6250513
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.6446169
+      value: -0.5037542
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.6736041
+      value: -0.5848028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 47162926c2cfdf04daa4a46efaf044a5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7140,6 +7140,7 @@ PlayableDirector:
     - 691dae3c021d179439d9eb661ad1b1bd: {fileID: 1787179471}
     - d0153cf626fa1da46b0abb72e2b8ccf0: {fileID: 999579841}
     - 2f63a6679f4f56843bb89d36fe4048e9: {fileID: 1787179471}
+    - bcae4c66e6f76dc48ad288e54286ca6b: {fileID: 999579841}
     - f420ba65908615e4a80989bec8649668: {fileID: 1787179471}
     - fbed2746b135a33439d8ca62f142c814: {fileID: 1787179471}
     - 1b9f3cb71b33bd945bc2e5093444c48e: {fileID: 999579841}
