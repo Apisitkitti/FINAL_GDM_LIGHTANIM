@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Akai_MAT
     second: {fileID: 2100000, guid: f85df5c0053489a4e9f79a41b2525306, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: akai_diffuse
+    second: {fileID: 2800000, guid: 1432ddb095d7f0545a03cfac1a09f030, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
